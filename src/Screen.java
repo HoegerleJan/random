@@ -7,6 +7,8 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
+//Randomizer Screen
+
 public class Screen extends JFrame {
     private static JTextField text = new JTextField("Champ"); //Todo: Text anpassen
     private static Button rollbutton = new Button("Roll", 200, 250);

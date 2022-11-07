@@ -7,6 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.util.Scanner;
 
+//Option selection Screen
+
 public class Setup extends JFrame {
 
     private static Text toptext = new Text(grab(0), 50, 50);

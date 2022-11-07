@@ -1,6 +1,8 @@
 import java.io.File;
 import java.io.FileWriter;
 
+//Note
+
 public class Main {
 
     private static Screen screen = new Screen();

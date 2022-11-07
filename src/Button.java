@@ -1,6 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
 
+//Default Button
+
 public class Button extends JButton {
 
     Button(String content, int cordx, int cordy) {

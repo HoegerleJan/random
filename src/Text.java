@@ -1,5 +1,7 @@
 import javax.swing.*;
 
+//Default Textfield
+
 public class Text extends JTextField {
 
     public Text(String content, int cordx, int cordy) {
