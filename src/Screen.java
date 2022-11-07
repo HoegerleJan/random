@@ -10,7 +10,7 @@ import java.util.Scanner;
 //Randomizer Screen
 
 public class Screen extends JFrame {
-    private static JTextField text = new JTextField("Champ"); //Todo: Text anpassen
+    private static JTextField text = new JTextField("Options");
     private static Button rollbutton = new Button("Roll", 200, 250);
     private static Button editbutton = new Button("Edit", 350, 400);
 
